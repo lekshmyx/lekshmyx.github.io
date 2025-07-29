@@ -9,9 +9,6 @@ author:
   name: "Lekshmy Anoop"
   email: "your-email@example.com"
 
-github_username: lekshmyx
-linkedin_username: yourprofile
-
 markdown: kramdown
 plugins:
   - jekyll-feed
