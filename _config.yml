@@ -1,0 +1,35 @@
+# _config.yml - Create this file in your repository root
+
+title: "Your Daughter's Name"
+description: "Student Leader | Debater | Future Attorney"
+baseurl: ""
+url: "https://lekshmyx.github.io"
+
+# Choose one of these themes (uncomment the one you want):
+theme: minima
+# theme: minimal-mistakes-jekyll
+# remote_theme: pages-themes/cayman@v0.2.0
+# remote_theme: pages-themes/architect@v0.2.0
+
+# Navigation menu
+header_pages:
+  - about.md
+  - leadership.md
+  - debate.md
+  - writing.md
+  - contact.md
+
+# Personal info
+author:
+  name: "Your Daughter's Name"
+  email: "your-email@example.com"
+
+# Social media (optional)
+github_username: lekshmyx
+linkedin_username: yourprofile
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
