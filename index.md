@@ -1,6 +1,5 @@
 ---
 layout: home
-title: "Welcome"
 ---
 
 # Hi, I'm Lekshmy Anoop
@@ -24,7 +23,3 @@ Through competitive debate, student leadership, and community service, I've deve
 I'm currently applying to colleges with strong government communications and pre-law programs. My long-term goal is to become an attorney specializing in public policy, helping to bridge the gap between complex legal issues and public understanding.
 
 ---
-
-**Ready to learn more?** Explore my [leadership experience](leadership), [debate achievements](debate), and [writing portfolio](writing).
-
-**Let's connect:** [Email me](mailto:your-email@example.com) or find me on [LinkedIn](https://linkedin.com/in/yourprofile)
